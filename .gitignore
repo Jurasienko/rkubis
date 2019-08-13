@@ -25,4 +25,4 @@ DerivedData/
 ## Gcc Patch
 /*.gcno
 rkubis.xcodeproj/project.xcworkspace/xcuserdata/mateuszjur.xcuserdatad/UserInterfaceState.xcuserstate
-
+*.xcuserstate
